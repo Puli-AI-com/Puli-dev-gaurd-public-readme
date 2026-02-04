@@ -18,6 +18,8 @@ Puli acts as a real-time bridge between your local development and global produc
 * **Agent Native:** Built specifically for the MCP ecosystem.
 * **IP Protection:** Choose between BYOK or zero-retention cloud.
 
+[How do I install it?](#install)
+
 <br clear="right">
 
 ## 🚀 How it Works
@@ -42,11 +44,10 @@ cases before the code is ever committed.<br><br>
 <img align="left" width="146" height="188" 
   src="https://github.com/user-attachments/assets/0a73df13-60bb-453c-bd11-c8e929dd7a7d">
 
-
 <br clear="right">
 
 ---
-
+<a id="install"></a>
 ## ⚙️ Installation & Setup
 
 ### 1. Configure the MCP Server
