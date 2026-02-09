@@ -1,4 +1,6 @@
 
+<img align="center" width="197" height="240" alt="Puli-Icon" src="https://github.com/user-attachments/assets/f8c608c3-17d5-4274-a494-98c16b0a77c2" />
+
 # 🛡️ The Puli Guardian MCP
 
 <img align="right" width="350" height="600" 
@@ -86,6 +88,6 @@ We prioritize your IP security, Operations run locally on your station and no co
 We support two distinct working modes:
 
 | Mode | Data Privacy |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | When OpenAI API key provided. | **Local Only.** , We pass embedded vectors to be used for extracting DB patterns. |
 | When no OpenAI API key provided. | **Zero Retention.**, We embedd the contextual meanning of you code change in our cloud. Nothing is ever logged or stored. |
