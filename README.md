@@ -26,7 +26,7 @@ Puli acts as a real-time bridge between your local development and global produc
 
 ## 🚀 How it Works
 <img align="right" width="450" height="750" 
-  src="https://github.com/user-attachments/assets/559ae811-58f4-4dba-b91b-856cdf02f430">
+  src="https://github.com/user-attachments/assets/4f0869c2-66b9-4498-8ddb-86fc0ccf7ed9">
 
 Whenver your coding agent attempts to modify your codebase, <br>
 Puli:
