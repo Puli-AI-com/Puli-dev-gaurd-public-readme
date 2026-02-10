@@ -89,5 +89,5 @@ We support two distinct working modes:
 
 | Mode | Data Privacy |
 | :--- | :--- |
-| When OpenAI API key provided. | **Local Only.** , We pass embedded vectors to be used for extracting DB patterns. |
-| When no OpenAI API key provided. | **Zero Retention.**, We embedd the contextual meanning of you code change in our cloud. Nothing is ever logged or stored. |
+| When OpenAI API key provided. | **Local Only.** We pass embedded vectors to be used for extracting DB patterns and information. |
+| When no OpenAI API key provided. | **Zero Retention.** We embedd the semantical meanning of your code change in our cloud. Nothing is ever logged or stored. |
