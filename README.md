@@ -88,10 +88,4 @@ To ensure your agent utilizes the guardrail for every change, add our rules file
 
 ## 🛡️ Privacy & Security
 We prioritize your IP security, Operations run locally on your station and no code is shared with our cloud.
-
-We support two distinct working modes:
-
-| Mode | Data Privacy |
-| :--- | :--- |
-| When OpenAI API key provided. | **Local Only.** We pass embedded vectors to be used for extracting DB patterns and information. |
-| When no OpenAI API key provided. | **Zero Retention.** We embedd the semantical meanning of your code change in our cloud. Nothing is ever logged or stored. |
+**Zero Retention.** We embedd the semantical meanning of your code change in our cloud. Nothing is ever logged or stored.
