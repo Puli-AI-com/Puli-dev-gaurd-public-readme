@@ -89,4 +89,4 @@ To ensure your agent utilizes the guardrail for every change, add our rules file
 ## 🛡️ Privacy & Security
 We prioritize your IP security, Operations run locally on your station and no code is shared with our cloud.
 **Zero Retention.** We embedd the semantical meanning of your code change in our cloud. Nothing is ever logged or stored.
-We use vertex's LLM and embedding, You can provide your own GCP credentials (GOOGLE_CLOUD_PROJECT,GOOGLE_CLOUD_LOCATION) and in this case everything will run locally on your station apart from emebedded vectors needed to retreive data from our data bases.
+We use vertex's LLM and embedding, You can provide your own GCP credentials (set GOOGLE_CLOUD_PROJECT, GOOGLE_CLOUD_LOCATION env vars for the MCP server) and in this case everything will run locally on your station apart from emebedded vectors needed to retreive data from our data bases.
