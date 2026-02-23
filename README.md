@@ -66,7 +66,6 @@ Add the following to your coding agent's configuration (e.g., `claude_desktop_co
       "command": "uvx",
       "args": ["--from", "puli-mcp-server@latest", "puli-reviewer"],
       "env": {
-        "PULI_API_KEY": "Your personal API key that was send to your e-mail",
         "BYO_OPENAI_API_KEY": "Optional* - <your-key-if-using-byok>",
         "BYO_GOOGLE_API_KEY": "Optional* - <your-key-if-using-byok>",
         "BYO_ANTHROPIC_API_KEY": "Optional* - <your-key-if-using-byok>"
