@@ -1,10 +1,13 @@
 
+
 <img align="center" width="197" height="240" alt="Puli-AI-new" src="https://github.com/user-attachments/assets/b1e21d97-35b2-4364-b62d-62d7f663c900" />
 
 # 🛡️ Puli Guardian MCP
 
 <img align="right" width="350" height="600" 
   src="https://github.com/user-attachments/assets/e0d31d86-2d8a-41d3-a1ff-7a47abb87b3a">
+
+![Puli-demo-edited2-ezgif com-crop]()
 
 ### _**AI agents write code fast. Puli validates it against what actually matters.**_
 
@@ -23,7 +26,7 @@ of real-time bugs, release notes, past incidents, edge cases, regulations and se
 
 ## 🚀 How it Works
 <img align="right" width="450" height="750" 
-  src="https://github.com/user-attachments/assets/4f0869c2-66b9-4498-8ddb-86fc0ccf7ed9">
+  src="https://github.com/user-attachments/assets/b20008e8-b2f3-494a-95bf-ad74344f6456">
 
 Whenver your coding agent attempts to modify your codebase, <br>
 Puli:
