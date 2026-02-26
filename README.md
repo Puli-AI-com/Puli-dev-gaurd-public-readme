@@ -13,7 +13,7 @@
 <img align="right" width="300" height="510" 
   src="https://github.com/user-attachments/assets/e0d31d86-2d8a-41d3-a1ff-7a47abb87b3a">
 
-is a proactive **quality** and **stability** guardrail for your <br>
+Puli Guard is a **quality** and **stability** guardrail for your <br>
 AI coding agents (Claude Code, Cursor, Antigravity, etc.). <br> 
 It prevents production breakages by confronting proposed <br> 
 code changes with a massive, real-time knowledge layer consisted <br> 
